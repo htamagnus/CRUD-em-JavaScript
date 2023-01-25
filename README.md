@@ -41,3 +41,6 @@ O conceito de update é aplicado quando você, que é dono dos dados ou tem perm
 
 Trata-se de uma ação de remoção de dados a partir do operador do sistema.
 
+
+---
+> <p> Feito com ❤ por Ágatha Magnus </p>
